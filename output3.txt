@@ -1,0 +1,10 @@
+724 nodes expanded
+cost = 851
+Empty Sydney to Parramatta
+Job Parramatta to Sydney
+Job Sydney to Hurstville
+Empty Hurstville to Cabramatta
+Empty Cabramatta to Parramatta
+Job Parramatta to Hurstville
+Empty Hurstville to Cabramatta
+Job Cabramatta to Hurstville

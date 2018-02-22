@@ -1,0 +1,8 @@
+62 nodes expanded
+cost = 485
+Job Sydney to Parramatta
+Job Parramatta to Gordon
+Job Gordon to Chatswood
+Empty Chatswood to Roseville
+Job Roseville to Auburn
+Job Auburn to Gordon

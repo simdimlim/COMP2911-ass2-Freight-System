@@ -1,0 +1,8 @@
+47 nodes expanded
+cost = 2320
+Job Sydney to Wagga
+Empty Wagga to Sydney
+Job Sydney to Bathurst
+Empty Bathurst to Dubbo
+Job Dubbo to Grafton
+Job Grafton to Wagga

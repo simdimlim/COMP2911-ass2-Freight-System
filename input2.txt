@@ -1,0 +1,21 @@
+Unloading 10 Parramatta
+Unloading 5 Sydney
+Unloading 20 Chatswood
+Unloading 15 Gordon
+Unloading 30 Auburn
+Unloading 80 Roseville
+Cost 60 Parramatta Sydney
+Cost 40 Parramatta Gordon
+Cost 75 Sydney Gordon
+Cost 85 Gordon Chatswood
+Cost 100 Gordon Auburn
+Cost 50 Sydney Chatswood
+Cost 30 Chatswood Auburn
+Cost 50 Sydney Roseville
+Cost 20 Chatswood Roseville
+Cost 90 Roseville Auburn
+Job Sydney Parramatta
+Job Auburn Gordon
+Job Parramatta Gordon
+Job Gordon Chatswood
+Job Roseville Auburn
